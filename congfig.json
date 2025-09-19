@@ -1,0 +1,18 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "http://肥猫.com/",
+      "name": "示例资源",
+      "detail": "http://xxx.com"
+    }
+    // ...更多站点
+  },
+  "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
+}
